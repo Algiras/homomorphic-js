@@ -9,4 +9,4 @@ This library exports a **homoMorph** method, that let's you wrap your functions 
     });
     sumToString(1,2); // String "3"
     sumToString(1, "2"); // TypeError "number expected, string given"
-'''
+''' 
