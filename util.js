@@ -7,7 +7,7 @@ module.exports = {
       if (typeof entry === type){
         result = entry;
       } else {
-        throw new TypeError(type + ' expected,' + typeof entry + ' given');
+        throw new TypeError(type + ' expected, ' + typeof entry + ' given');
       }
       return result;
     };

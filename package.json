@@ -1,8 +1,12 @@
 {
   "name": "homomorphic-js",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Algiras/homomorphic-js.git"
+  },
   "description": "Easy way to make Js Homomorphic",
-  "main": "index.js",
+  "main": "index",
   "scripts": {
     "test": "node node_modules/lab/bin/lab -v -c --lint"
   },
@@ -18,5 +22,8 @@
   "devDependencies": {
     "code": "^2.1.1",
     "lab": "^10.3.0"
+  },
+  "engines": {
+    "node": "4.2.3"
   }
 }

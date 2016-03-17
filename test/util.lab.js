@@ -21,7 +21,7 @@ lab.suite('util', function(){
     });
 
     lab.test('should throw typeError on bad type', function(done){
-      Code.expect(util.typeOf('string').bind(null, 1)).to.throw(TypeError, 'string expected,number given');
+      Code.expect(util.typeOf('string').bind(null, 1)).to.throw(TypeError, 'string expected, number given');
       done();
     });
   });
