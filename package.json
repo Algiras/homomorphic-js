@@ -1,0 +1,22 @@
+{
+  "name": "homomorphic-js",
+  "version": "0.0.1",
+  "description": "Easy way to make Js Homomorphic",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/lab/bin/lab -v -c --lint"
+  },
+  "keywords": [
+    "js",
+    "homomorphic"
+  ],
+  "author": "AK",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "3.x.x"
+  },
+  "devDependencies": {
+    "code": "^2.1.1",
+    "lab": "^10.3.0"
+  }
+}
