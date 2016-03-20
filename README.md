@@ -1,6 +1,6 @@
 # Easy way to do Homomorphic Javascript
 
-[![Build Status](https://travis-ci.org/Algiras/homomorphic-js.svg?branch=master)](https://travis-ci.org/Algiras/homomorphic-js) [![Known Vulnerabilities](https://snyk.io/test/npm/homomorphic-js/badge.svg)](https://snyk.io/test/npm/homomorphic-js)
+[![Build Status](https://travis-ci.org/Algiras/homomorphic-js.svg?branch=master)](https://travis-ci.org/Algiras/homomorphic-js) [![Known Vulnerabilities](https://snyk.io/test/npm/homomorphic-js/badge.svg)](https://snyk.io/test/npm/homomorphic-js) [![npm version](https://badge.fury.io/js/homomorphic-js.svg)](https://badge.fury.io/js/homomorphic-js) [![codecov.io](https://codecov.io/github/Algiras/homomorphic-js/coverage.svg?branch=master)](https://codecov.io/github/Algiras/homomorphic-js?branch=master) 
 
 This library exports a **homoMorph** method, that let's you wrap your functions in type checks
 
