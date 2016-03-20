@@ -7,6 +7,7 @@ module.exports = {
   num: util.typeOf('number'),
   func: util.typeOf('function'),
   bool: util.typeOf('boolean'),
+  undef: util.typeOf('undefined'),
   obj: util.objectTypeOf('Object'),
   arr: util.objectTypeOf('Array'),
   date: util.objectTypeOf('Date')

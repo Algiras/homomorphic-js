@@ -1,6 +1,6 @@
 # Easy way to do Homomorphic Javascript
 
-[![Build Status](https://travis-ci.org/Algiras/homomorphic-js.svg?branch=master)](https://travis-ci.org/Algiras/homomorphic-js)
+[![Build Status](https://travis-ci.org/Algiras/homomorphic-js.svg?branch=master)](https://travis-ci.org/Algiras/homomorphic-js) [![Known Vulnerabilities](https://snyk.io/test/npm/homomorphic-js/badge.svg)](https://snyk.io/test/npm/homomorphic-js)
 
 This library exports a **homoMorph** method, that let's you wrap your functions in type checks
 

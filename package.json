@@ -8,7 +8,7 @@
   "description": "Easy way to make Js Homomorphic",
   "main": "index",
   "scripts": {
-    "test": "node node_modules/lab/bin/lab -v -c --lint"
+    "test": "snyk test && node node_modules/lab/bin/lab -v -c --lint"
   },
   "keywords": [
     "js",
@@ -17,7 +17,8 @@
   "author": "AK",
   "license": "MIT",
   "dependencies": {
-    "lodash": "3.x.x"
+    "lodash": "3.x.x",
+    "snyk": "^1.12.1"
   },
   "devDependencies": {
     "code": "^2.1.1",
